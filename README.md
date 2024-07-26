@@ -19,7 +19,7 @@ GitHubRepoCloner is a simple script to clone all repositories from a specific Gi
 1. Clone the repository or download the script.
 
     ```bash
-    git clone https://github.com/Uwedwa/GitHubRepoCloner.git
+    git clone https://github.com/yourusername/GitHubRepoCloner.git
     cd GitHubRepoCloner
     ```
 
@@ -40,6 +40,7 @@ GitHubRepoCloner is a simple script to clone all repositories from a specific Gi
 2. Enter the GitHub topic URL when prompted.
 
     ```plaintext
+    Enter the GitHub topic URL: https://github.com/topics/zartzurt
     ```
 
 The script will clone all repositories listed on the specified topic page.
@@ -48,5 +49,5 @@ The script will clone all repositories listed on the specified topic page.
 
 ```bash
 $ python GitHubRepoCloner.py
-Enter the GitHub topic URL: https://github.com/topics/zartzut
+Enter the GitHub topic URL: https://github.com/topics/zartzurt
 All projects have been cloned.
