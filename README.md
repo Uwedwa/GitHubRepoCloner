@@ -19,7 +19,7 @@ GitHubRepoCloner is a simple script to clone all repositories from a specific Gi
 1. Clone the repository or download the script.
 
     ```bash
-    git clone https://github.com/Uwedwa/GitHubRepoCloner.git)
+    git clone https://github.com/Uwedwa/GitHubRepoCloner.git
     cd GitHubRepoCloner
     ```
 
